@@ -5,6 +5,8 @@ This is a simple learning/testing project.
 
 It's a Windows Presentation Foundation (WPF) that detects a MariaDB service, presents it's status (Running, Stopped) and allows you to control it via buttons.
 
+[Download](https://github.com/lucianosaito/MariaDB-Control/releases) the current release at the releases page.
+
 ## Learning Objectives
 While making this project, my focus was learning:
 - Visual Studio, C# and WPF, which I never coded before
