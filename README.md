@@ -21,3 +21,7 @@ I apologize for the lack of model classes and the poor coding.
 ## Screenshot
 
 ![MariaDB Control Screenshot](https://lucianosaito.github.io/mdb_screenshot.png)
+
+
+
+This project is licensed under the terms of the MIT license.
